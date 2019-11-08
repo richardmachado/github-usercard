@@ -139,7 +139,7 @@ function createCard(data){
           user, and adding that card to the DOM.
 */
 let followersArray = [];
-followersArray= ["shadowborn","tetondan","dustinmyers","luishrd","bigknell"];
+followersArray= ["emilyseibert"," luishrd", "shadowborn","tetondan","dustinmyers","ihabunek","justsml"];
 
   followersArray.forEach(follower =>
     axios
